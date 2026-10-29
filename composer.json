@@ -9,12 +9,12 @@
         "fancourier",
         "shipping"
     ],
-    "homepage": "https://github.com/WeBRTeu/fancourier",
+    "homepage": "https://github.com/BrTDevil/webrteu-fancourier",
     "authors": [
         {
             "name": "WeBRTeu",
             "email": "pfa.razvan.bodnariu@gmail.com",
-            "homepage": "https://webrteu.eu"
+            "homepage": "https://webrt.eu"
         }
     ],
     "require": {
