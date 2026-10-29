@@ -1,0 +1,1 @@
+{"response": [{"index": 1, "awbNumber": null, "errors": {"recipient.phone": ["Numărul de telefon este invalid."], "info.weight": "Greutatea este obligatorie."}}]}
